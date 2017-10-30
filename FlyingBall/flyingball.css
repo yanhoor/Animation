@@ -1,0 +1,14 @@
+/*
+* @Author: yanhoor
+* @Date:   2017-10-28 19:45:55
+* @Last Modified by:   yanhoor
+* @Last Modified time: 2017-10-28 23:35:04
+*/
+body{
+	margin: 0;
+	padding: 0;
+}
+
+#canvas{
+	border: 1px solid #000000;
+}
